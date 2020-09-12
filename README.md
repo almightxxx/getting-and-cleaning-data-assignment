@@ -1,7 +1,15 @@
 Peer-Graded-Assignment:Getting and Cleaning Data
+
+
 This repository is my(Prem B. Thapa)submission for Getting and cleaning  data assignment and provides instructions to perform analysis on the Human Activity Recognition Dataset.
+
+
+
 The link for the dataset:https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 download it into your working directory using the download.file()
+
+
+
 The files in this repo include:
 
 
